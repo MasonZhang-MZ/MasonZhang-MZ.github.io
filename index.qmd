@@ -2,6 +2,8 @@
 title: "Mingyang Zhang (Mason)"
 ---
 
+MDS cures all addctions to gaming.
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.

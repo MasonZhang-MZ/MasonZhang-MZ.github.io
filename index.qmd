@@ -2,7 +2,7 @@
 title: "Mingyang Zhang (Mason)"
 ---
 
-MDS cures all addctions to gaming.
+MDS cures all addictions to gaming.
 
 This is a Quarto website.
 
